@@ -1,0 +1,19 @@
+{
+  "name": "express_mongoose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohitaries/GitHub.git"
+  },
+  "author": "Rohit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohitaries/GitHub/issues"
+  },
+  "homepage": "https://github.com/rohitaries/GitHub#readme"
+}
